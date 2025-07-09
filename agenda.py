@@ -1,4 +1,4 @@
-class Contacto:
+class Contacto: # Nueva clase Contacto
     def __init__(self, nombre, telefono, correo, direccion):
         self.nombre = nombre
         self.telefono = telefono
